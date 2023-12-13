@@ -275,3 +275,9 @@ body {
   text-align:center;
 }
 
+.end {
+  display:flex;
+  justify-content: space-between;
+  margin-top: 7rem;
+  height:2rem;
+}
