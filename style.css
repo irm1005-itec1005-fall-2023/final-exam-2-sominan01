@@ -218,12 +218,17 @@ body {
   text-align: center;
 }
 
-.work h3 {
-  text-align: center;
+.work a {
+  background-color: #FFC0BE;
+  border-radius: 2rem;
+  text-decoration: none;
+  text-align:center;
+  padding: 0.3rem 0.5rem;
 }
 
 .work img {
   border-radius: 2rem;
+  margin-top: 0.5rem;
 }
 
 .grid-mywork {
@@ -278,6 +283,6 @@ body {
 .end {
   display:flex;
   justify-content: space-between;
-  margin-top: 7rem;
+  margin-top: 10rem;
   height:2rem;
 }
